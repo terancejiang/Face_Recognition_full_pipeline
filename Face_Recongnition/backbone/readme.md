@@ -1,0 +1,10 @@
+1. ghostnet
+2. ghostnetv2
+3. ghostfacenet
+4. mobilenetv3
+5. mobilefacenets
+6. swin_transformer
+7. irsenet
+8. LightCNN
+9. shufflenet
+10. shufflefacenet
